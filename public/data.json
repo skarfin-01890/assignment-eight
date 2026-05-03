@@ -7,7 +7,7 @@
     "rating": 4.7,
     "stock": 10,
     "description": "Stylish UV protection sunglasses perfect for summer outings.",
-    "image": "https://i.postimg.cc/example1.png",
+    "image": "https://images.pexels.com/photos/343720/pexels-photo-343720.jpeg",
     "category": "Accessories"
   },
   {
@@ -18,7 +18,7 @@
     "rating": 4.5,
     "stock": 20,
     "description": "Lightweight straw hat to keep you cool under the sun.",
-    "image": "https://i.postimg.cc/example2.png",
+    "image": "https://i5.walmartimages.com/seo/Sun-Hats-for-Women-Wide-Brim-Straw-Hat-Beach-Protection-Hat-Foldable-Packable-Summer-Shell-Decoration-Cap-UPF-50_a084878a-7820-4a1e-bdb3-78dfa7db7350.c19ed4b789c5380ba812aa00d68daf96.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
     "category": "Accessories"
   },
   {
@@ -29,7 +29,7 @@
     "rating": 4.3,
     "stock": 25,
     "description": "Breathable cotton t-shirt ideal for hot summer days.",
-    "image": "https://i.postimg.cc/example3.png",
+    "image": "https://media.istockphoto.com/id/1170635789/photo/close-up-of-colorful-t-shirts-on-hangers-apparel-background.jpg?s=612x612&w=0&k=20&c=dQt1A72vKFX8Gqf3U34Yo9jkFegWz0o2qwUYf_rjXpc=",
     "category": "Clothing"
   },
   {
@@ -40,7 +40,7 @@
     "rating": 4.8,
     "stock": 15,
     "description": "Elegant and airy summer dress for casual outings.",
-    "image": "https://i.postimg.cc/example4.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXvg-uvax8MEQPoMQQutvuGTYblOg9DGuXwQ&s",
     "category": "Clothing"
   },
   {
@@ -51,7 +51,7 @@
     "rating": 4.6,
     "stock": 30,
     "description": "High protection sunscreen to shield your skin from harmful UV rays.",
-    "image": "https://i.postimg.cc/example5.png",
+    "image": "https://www.sunbum.com/cdn/shop/files/6_SB_2026_Daily_PDP_Daily_Glow_R3V15_SB_2026_Daily_PDP_Daily_Glow_Collection_R2V1.jpg?v=1770062297&width=2000",
     "category": "Skincare"
   },
   {
@@ -62,7 +62,7 @@
     "rating": 4.4,
     "stock": 40,
     "description": "Reusable water bottle to keep you hydrated during summer.",
-    "image": "https://i.postimg.cc/example6.png",
+    "image": "https://eveen.pk/cdn/shop/files/FAE680E7-F459-439B-903E-F7B30F42448A.jpg?v=1726138205&width=1125",
     "category": "Essentials"
   },
   {
@@ -73,7 +73,7 @@
     "rating": 4.2,
     "stock": 18,
     "description": "Comfortable and durable sandals perfect for the beach.",
-    "image": "https://i.postimg.cc/example7.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOLdSz5JMfL8nAnIIxavQFOPKs094VDD_-A&s",
     "category": "Footwear"
   }
 ]

@@ -1,18 +1,21 @@
 import Link from 'next/link';
 import React from 'react';
 import Navlink from './Navlink';
+import { FaHome } from 'react-icons/fa';
+import { MdOutlineProductionQuantityLimits } from 'react-icons/md';
+import { CgProfile } from 'react-icons/cg';
 
 const Navbar = () => {
 
 	const links=
 	<>
-      <li><Navlink href='/'>Home</Navlink></li>
-      <li><Navlink href='/Products'>Products</Navlink></li>
-      <li><Navlink href='/Profile'>My Profile</Navlink></li>
+      <li><Navlink href='/'><FaHome /> Home</Navlink></li>
+      <li><Navlink href='/Products'><MdOutlineProductionQuantityLimits /> Products</Navlink></li>
+      <li><Navlink href='/Profile'><CgProfile /> My Profile</Navlink></li>
     </>
 	return (
 
-<div className="navbar bg-gray-900 shadow-sm sticky top-0 z-[9999] ">
+<div className="navbar bg-gray-900 h-30 shadow-sm sticky top-0 z-[9999] ">
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
