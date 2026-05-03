@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings.",
+    "image": "https://i.postimg.cc/example1.png",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Straw Beach Hat",
+    "brand": "SunnyStyle",
+    "price": 12,
+    "rating": 4.5,
+    "stock": 20,
+    "description": "Lightweight straw hat to keep you cool under the sun.",
+    "image": "https://i.postimg.cc/example2.png",
+    "category": "Accessories"
+  },
+  {
+    "id": 3,
+    "name": "Men's Cotton T-Shirt",
+    "brand": "CoolWear",
+    "price": 10,
+    "rating": 4.3,
+    "stock": 25,
+    "description": "Breathable cotton t-shirt ideal for hot summer days.",
+    "image": "https://i.postimg.cc/example3.png",
+    "category": "Clothing"
+  },
+  {
+    "id": 4,
+    "name": "Women's Summer Dress",
+    "brand": "BreezeFashion",
+    "price": 25,
+    "rating": 4.8,
+    "stock": 15,
+    "description": "Elegant and airy summer dress for casual outings.",
+    "image": "https://i.postimg.cc/example4.png",
+    "category": "Clothing"
+  },
+  {
+    "id": 5,
+    "name": "SPF 50 Sunscreen Lotion",
+    "brand": "SkinGuard",
+    "price": 18,
+    "rating": 4.6,
+    "stock": 30,
+    "description": "High protection sunscreen to shield your skin from harmful UV rays.",
+    "image": "https://i.postimg.cc/example5.png",
+    "category": "Skincare"
+  },
+  {
+    "id": 6,
+    "name": "Portable Water Bottle",
+    "brand": "HydroMax",
+    "price": 8,
+    "rating": 4.4,
+    "stock": 40,
+    "description": "Reusable water bottle to keep you hydrated during summer.",
+    "image": "https://i.postimg.cc/example6.png",
+    "category": "Essentials"
+  },
+  {
+    "id": 7,
+    "name": "Beach Sandals",
+    "brand": "WalkEasy",
+    "price": 14,
+    "rating": 4.2,
+    "stock": 18,
+    "description": "Comfortable and durable sandals perfect for the beach.",
+    "image": "https://i.postimg.cc/example7.png",
+    "category": "Footwear"
+  }
+]
