@@ -3,6 +3,7 @@ import React from 'react';
 import Navlink from './Navlink';
 
 const Navbar = () => {
+
 	const links=
 	<>
       <li><Navlink href='/'>Home</Navlink></li>
@@ -35,6 +36,7 @@ const Navbar = () => {
     <a className="btn">Button</a>
   </div>
 </div>
+
 
 	);
 };
